@@ -1,0 +1,16 @@
+2025-09-11 01:20:57,032 - INFO - Starting to parse resume: C:\Users\shubh\AppData\Local\Temp\tmpyghlqaon.pdf
+2025-09-11 01:20:57,142 - INFO - Successfully parsed resume. Found 13 skills.
+2025-09-11 01:21:06,757 - INFO - Gemini API initialized successfully
+2025-09-11 01:21:06,758 - INFO - Generating 5 HR questions
+2025-09-11 01:21:29,425 - INFO - Successfully generated 5 HR questions
+2025-09-11 01:22:20,260 - INFO - Gemini API initialized successfully
+2025-09-11 01:22:20,260 - INFO - Generating 5 technical questions
+2025-09-11 01:22:27,260 - INFO - Successfully generated 5 technical questions
+2025-09-11 01:31:08,019 - INFO - Starting to parse resume: C:\Users\shubh\AppData\Local\Temp\tmp0fjrhfa0.pdf
+2025-09-11 01:31:08,100 - INFO - Successfully parsed resume. Found 13 skills.
+2025-09-11 01:31:21,812 - INFO - Gemini API initialized successfully
+2025-09-11 01:31:21,812 - INFO - Generating 5 HR questions
+2025-09-11 01:31:32,748 - INFO - Successfully generated 5 HR questions
+2025-09-11 01:32:07,349 - INFO - Gemini API initialized successfully
+2025-09-11 01:32:07,349 - INFO - Generating 5 technical questions
+2025-09-11 01:32:15,927 - INFO - Successfully generated 5 technical questions
